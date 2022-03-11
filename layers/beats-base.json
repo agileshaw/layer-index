@@ -1,6 +1,6 @@
 {
   "id": "beats-base",
   "name": "Beats Base",
-  "repo": "https://github.com/juju-solutions/layer-beats-base",
+  "repo": "https://github.com/agileshaw/layer-beats-base/tree/remove-host-relation",
   "summary": "Base layer for Elastic Beats"
 }

@@ -59,7 +59,7 @@ List of Base Layers
 | apt | [Repo](https://git.launchpad.net/layer-apt) | [Docs](https://github.com/stub42/layer-apt#readme) | Apt layer | Easily deal with apt sources and deb packages |
 | barbican-client | [Repo](https://github.com/omnivector-solutions/layer-barbican-client) | [Docs](https://github.com/omnivector-solutions/layer-barbican-client#readme) | Barbican Client | Reactive layer to help pull secrets from barbican |
 | basic | [Repo](https://github.com/juju-solutions/layer-basic.git) | [Docs](https://github.com/juju-solutions/layer-basic.git#readme) | Basic Layer | Base layer for charms with the Reactive framework |
-| beats-base | [Repo](https://github.com/juju-solutions/layer-beats-base) | [Docs](https://github.com/juju-solutions/layer-beats-base#readme) | Beats Base | Base layer for Elastic Beats |
+| beats-base | [Repo](https://github.com/agileshaw/layer-beats-base/tree/remove-host-relation) | [Docs](https://github.com/juju-solutions/layer-beats-base#readme) | Beats Base | Base layer for Elastic Beats |
 | bigtop-base | [Repo](https://github.com/juju-solutions/layer-apache-bigtop-base.git) | [Docs](https://github.com/juju-solutions/layer-apache-bigtop-base.git#readme) | Apache Bigtop Base Layer | Base layer for charms needing Apache Bigtop  |
 | buildpacks | [Repo](https://git.launchpad.net/~bcsaller/charms/+source/buildpacks) | [Docs](https://git.launchpad.net/~bcsaller/charms/+source/tree/README.md) | Buildpacks | Experimental layer for using buildpacks to generate Charmed applications |
 | caas-base | [Repo](https://github.com/juju-solutions/layer-caas-base.git) | [Docs](https://github.com/juju-solutions/layer-caas-base.git#readme) | Base Layer for CAAS charms | Base layer for CAAS charms with the Reactive framework |
