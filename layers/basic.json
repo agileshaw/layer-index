@@ -1,6 +1,6 @@
 {
   "id": "basic",
   "name": "Basic Layer",
-  "repo": "https://github.com/agileshaw/layer-basic",
+  "repo": "https://github.com/agileshaw/layer-basic/tree/markupsafe_version",
   "summary": "Base layer for charms with the Reactive framework"
 }
